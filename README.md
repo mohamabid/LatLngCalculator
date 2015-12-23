@@ -1,4 +1,4 @@
-# LatLongCalculator
+# LatLngCalculator
 
 The <b>CalculateFinerLatLngs</b> function in finer-latlng.js file provides the ability to calculate Latitudes and Longitudes at a given distance given a pair of Latitudes and Longitudes.
 
