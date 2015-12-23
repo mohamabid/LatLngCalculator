@@ -1,6 +1,6 @@
 # LatLongCalculator
 
-The <b>CalculateFinerLatLongs</b> function in finer-latlon.js file provides the ability to calculate Latitudes and Longitudes at a given distance given a pair of Latitudes and Longitudes.
+The <b>CalculateFinerLatLngs</b> function in finer-latlon.js file provides the ability to calculate Latitudes and Longitudes at a given distance given a pair of Latitudes and Longitudes.
 
 <h4>Uses</h4>
 One of the use cases where you may need finer Latitudes and Longitudes which are at a specific distance apart (Lets say 1 Meter) is to build a Driving Simulator on a Map. 

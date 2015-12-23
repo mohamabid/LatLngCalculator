@@ -8,7 +8,7 @@
 'use strict';
 if (typeof module!='undefined' && module.exports) var LatLon = require('./latlon-ellipsoidal.js'); // CommonJS (Node)
 
-function CalculateFinerLatLongs(latlons, fineDistance){
+function CalculateFinerLatLngs(latlons, fineDistance){
     var fineShapePoints = [];
     fineShapePoints.push(latlons[0]);
     for(var i=1;i<latlons.length;i++){
